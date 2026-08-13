@@ -1,10 +1,3 @@
-<!-- 1. 상단 배너 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World!%20👋&fontSize=50" width="100%"/>
-</div>
-
-<br>
-
 ### 🛠️ Tech Stack
 
 #### Languages & Web
