@@ -1,5 +1,3 @@
-[![gitanimals](https://render.gitanimals.org/farm/sjcycle)](https://gitanimals.org)
-
 #### 기술스텍
 <hr>
 <p>
