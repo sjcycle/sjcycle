@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjcycle&show_icons=true&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=sjcycle&theme=dracula" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjcycle&layout=compact&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjcycle&theme=react-dark" width="100%" />
 </p>
