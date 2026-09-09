@@ -5,9 +5,9 @@
 
 <br/>
 
-### 👨‍💻 About Me
-* 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
-* 📧 Email: sjcycle73@gmail.com
+### About Me
+* 계속해서 배우고 성장하는 개발자 **문성준**입니다.
+* Email: sjcycle73@gmail.com
 
 <br/>
 
