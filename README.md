@@ -1,6 +1,6 @@
 <!-- 상단 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=180&section=header&text=문성준%20|%20sjcycle&fontSize=35&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:6C5CE7&height=180&section=header&text=문성준%20|%20sjcycle&fontSize=35&fontColor=ffffff" width="100%"/>
 </div>
 
 <br/>
@@ -11,6 +11,7 @@
 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
 
 <br/>
+<hr>
 
 <p>
   <a href="mailto:sjcycle73@gmail.com">
@@ -45,10 +46,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sjcycle&theme=nord" />
+  <img src="https://streak-stats.demolab.com?user=sjcycle&theme=dracula" />
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/3B82F6/sjcycle" alt="sjcycle's Github chart" width="100%" />
+  <img src="https://ghchart.rshah.org/8B5CF6/sjcycle" alt="sjcycle's Github chart" width="100%" />
 </p>
 
 </div>
