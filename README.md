@@ -1,6 +1,6 @@
 <!-- 상단 헤더 배너 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:00B8FF&height=180&section=header&text=문성준%20|%20sjcycle&fontSize=35&fontColor=000000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,100:111827&height=180&section=header&text=문성준%20|%20sjcycle&fontSize=35&fontColor=ffffff" width="100%"/>
 </div>
 
 <br/>
@@ -12,6 +12,7 @@
 
 <br/>
 
+<hr>
 <p>
   <a href="mailto:sjcycle73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sjcycle73%40gmail.com-f4f4f4?style=flat-square&logo=gmail&logoColor=black&labelColor=f4f4f4"/>
@@ -45,10 +46,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sjcycle&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sjcycle&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF88/sjcycle" alt="sjcycle's Github chart" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea44f/sjcycle" alt="sjcycle's Github chart" width="100%" />
 </p>
 
 </div>
