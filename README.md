@@ -8,7 +8,6 @@
 ### 👨‍💻 About Me
 * 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
 * 📧 Email: `your_email@example.com`
-* 📸 Instagram: [@m0on.sj_73](https://instagram.com/m0on.sj_73)
 
 <br/>
 
@@ -27,7 +26,7 @@
 **Tools & Socials**
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <a href="https://instagram.com/본인아이디" target="_blank">
+  <a href="https://instagram.com/m0on.sj_73" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </p>
