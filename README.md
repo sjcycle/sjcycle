@@ -5,9 +5,10 @@
 
 <br/>
 
-### About Me
-* 계속해서 배우고 성장하는 개발자 **문성준**입니다.
-* Email: sjcycle73@gmail.com
+### 👨‍💻 About Me
+* 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
+* 📧 Email: `your_email@example.com`
+* 📸 Instagram: [@m0on.sj_73](https://instagram.com/m0on.sj_73)
 
 <br/>
 
@@ -23,10 +24,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </p>
 
-**Tools & Collaboration**
+**Tools & Socials**
 <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  <a href="https://instagram.com/본인아이디" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 </p>
 
 <br/>
