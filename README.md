@@ -7,8 +7,7 @@
 
 ### 👨‍💻 About Me
 * 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
-* 📧 Email: `your_email@example.com`
-* 📝 Notion: [Notion 바로가기](https://notion.so)
+* 📧 Email: sjcycle73@gmail.com
 
 <br/>
 
