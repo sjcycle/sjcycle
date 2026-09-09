@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 * 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
-* 📧 Email: sjcycle73@gmail.com
+* 📧 Email: `your_email@example.com`
 
 <br/>
 
@@ -32,6 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjcycle&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjcycle&layout=compact&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sjcycle&show_icons=true&theme=dracula" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjcycle&layout=compact&theme=dracula" />
 </p>
