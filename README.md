@@ -5,9 +5,12 @@
 
 <br/>
 
+<div align="center">
+
 ### 👨‍💻 About Me
-* 🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
-<hr>
+🚀 계속해서 배우고 성장하는 개발자 **문성준**입니다.
+
+<br/>
 
 <p>
   <a href="mailto:sjcycle73@gmail.com">
@@ -41,9 +44,11 @@
 <br/>
 
 ### 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=sjcycle&theme=tokyonight" />
 </p>
-<p align="left">
+<p align="center">
   <img src="https://ghchart.rshah.org/00FF88/sjcycle" alt="sjcycle's Github chart" width="100%" />
 </p>
+
+</div>
