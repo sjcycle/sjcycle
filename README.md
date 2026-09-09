@@ -35,5 +35,5 @@
   <img src="https://streak-stats.demolab.com?user=sjcycle&theme=dracula" />
 </p>
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjcycle&theme=react-dark" width="100%" />
+  <img src="https://ghchart.rshah.org/8A2BE2/sjcycle" alt="sjcycle's Github chart" width="100%" />
 </p>
