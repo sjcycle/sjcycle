@@ -41,15 +41,3 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
 </p>
-
-<br/>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sjcycle&theme=dracula" />
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/8B5CF6/sjcycle" alt="sjcycle's Github chart" width="100%" />
-</p>
-
-</div>
