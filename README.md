@@ -25,11 +25,5 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 </p>
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=sjcycle&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/sjcycle"
-  width="600"
-  height="300"
-/>
 </a>
 </div>
