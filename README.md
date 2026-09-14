@@ -1,24 +1,12 @@
-<!-- 상단 헤더 배너 -->
+<!-- 상단 헤더 배너 및 소셜 링크 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:6C5CE7&height=180&section=header&text=문성준%20|%20sjcycle&fontSize=35&fontColor=ffffff" width="100%"/>
+  
+  <p>
+    <a href="mailto:sjcycle73@gmail.com"><img src="https://img.shields.io/badge/Gmail-sjcycle73%40gmail.com-f4f4f4?style=flat-square&logo=gmail&logoColor=black&labelColor=f4f4f4"/></a>
+    <a href="https://instagram.com/m0on.sj_73" target="_blank"><img src="https://img.shields.io/badge/Instagram-m0on.sj__73-f4f4f4?style=flat-square&logo=instagram&logoColor=black&labelColor=f4f4f4"/></a>
+  </p>
 </div>
-
-<br/>
-
-<div align="center">
-
-
-<br/>
-<hr>
-
-<p>
-  <a href="mailto:sjcycle73@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sjcycle73%40gmail.com-f4f4f4?style=flat-square&logo=gmail&logoColor=black&labelColor=f4f4f4"/>
-  </a>
-  <a href="https://instagram.com/m0on.sj_73" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-m0on.sj__73-f4f4f4?style=flat-square&logo=instagram&logoColor=black&labelColor=f4f4f4"/>
-  </a>
-</p>
 
 <br/>
 
