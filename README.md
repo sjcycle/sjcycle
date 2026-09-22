@@ -6,6 +6,7 @@
 <br/>
 <hr>
 
+
 <p>
   <a href="mailto:sjcycle73@gmail.com"><img src="https://img.shields.io/badge/Gmail-sjcycle73%40gmail.com-f4f4f4?style=flat-square&logo=gmail&logoColor=black&labelColor=f4f4f4"/></a>
   <a href="https://instagram.com/m0on.sj_73" target="_blank"><img src="https://img.shields.io/badge/Instagram-m0on.sj__73-f4f4f4?style=flat-square&logo=instagram&logoColor=black&labelColor=f4f4f4"/></a>
